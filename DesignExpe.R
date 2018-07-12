@@ -13,4 +13,16 @@ set.seed(69)
 
 ###Generate 16 alternatives in an optimal orthogonal design
 simu<-optFederov( ~ ., data = cand.list, nTrials = 10)
+
+#Install lavaan
+install.packages("lavaan", dependencies=TRUE)
+library(lavaan)
+
+#install lavaan.survey
+install.packages("lavaan.survey")
+library(lavaan.survey)
+
+#Install survey-package
+install.packages("survey")
+library(survey)
   
