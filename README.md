@@ -14,11 +14,15 @@ Cloud need : yn
 
 # List of thema
 Budget
-    Actual
-    Investment
+    Size
+    Extension
+Innovation 
+    Blockchain
+    Cloud 
+    AI
 Machine Learning
     Knowledge
-    Chat bot
+    Conversationnal
     Mining
 Data variety/volume/velocity
     Variety
