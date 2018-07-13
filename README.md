@@ -12,31 +12,31 @@ Happy on ML solution : yn
 Extend Investment: yn
 Cloud need : yn
 
-# List of thema
+# List of thema / alternatives
 Budget
-    Size
-    Extension
+    Size : <100k
+    Extension : yn
 Innovation 
-    Blockchain
-    Cloud 
-    AI
+    Blockchain : yn
+    Cloud : yn 
+    AI :yn
 Machine Learning
-    Knowledge
-    Conversationnal
-    Mining
+    Knowledge : light, median high
+    Conversationnal : no, started
+    Mining: no , started
 Data variety/volume/velocity
-    Variety
-    Volume
-    Velocity
+    Variety : yn
+    Volume : yn
+    Velocity : yn
 Happyness
-    actual
-    complexity
-    time
-    price
+    actual : yn
+    complexity : yn 
+    time :yn
+    price :yn
 
 
-# List of alternatives
-Budget 
+
+
 
 # License
 See LICENSE file
