@@ -12,7 +12,27 @@ Happy on ML solution : yn
 Extend Investment: yn
 Cloud need : yn
 
+# List of thema
+Budget
+    Actual
+    Investment
+Machine Learning
+    Knowledge
+    Chat bot
+    Mining
+Data variety/volume/velocity
+    Variety
+    Volume
+    Velocity
+Happyness
+    actual
+    complexity
+    time
+    price
 
+
+# List of alternatives
+Budget 
 
 # License
 See LICENSE file
