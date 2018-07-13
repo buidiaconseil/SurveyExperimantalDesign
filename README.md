@@ -52,8 +52,11 @@ We need to optimize for 10 questions with 4 responses.
 59     1                        -1                               1                     -1            1  1             1
 64     1                         1                               1                      1            1  1             1
 
-| lINE |Rep..  | Budget.Size  | Budget.Extension|Innovation.Blockchain| Innovation.Cloud| Innovation.AI | Happyness.actual | Happyness.complexity |Happyness.time | Happyness.price |
+| lINE | Rep.. | Budget.Size  | Budget.Extension|Innovation.Blockchain| Innovation.Cloud | Innovation.AI | Happyness.actual | Happyness.complexity |Happyness.time | Happyness.price |
+| ---- | ----- | ------------ | --------------- | ------------------- | ---------------- | ------------- | ---------------- | -------------------- | -------------- | --------------- |
 | 1    |   1   |       -1     |          -1     |               -1    |           -1    |        -1     |               -1 |                 -1   |          -1          |    -1           |
+
+
 22      1           1               -1                     1               -1             1     -1                   -1             -1              -1
 52      1           1                1                    -1               -1             1     1                   -1             -1              -1
 54      1           1               -1                     1               -1             1     1                   -1             -1              -1
