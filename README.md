@@ -21,7 +21,7 @@ Innovation
     Cloud : yn 
     AI :yn
 Machine Learning
-    Knowledge : light, median high
+    Knowledge : light, high
     Conversationnal : no, started
     Mining: no , started
 Data variety/volume/velocity
@@ -33,6 +33,10 @@ Happyness
     complexity : yn 
     time :yn
     price :yn
+
+# Data generation
+32768 row for 15 variables. I t s a lot
+Wi need to optimize for 10 questions with 4 responses.
 
 
 
