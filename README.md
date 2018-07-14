@@ -76,8 +76,12 @@ It is related on the previous list of subject.
     - need to be extended
     - not fine
     
-- Q4 : Do you want to extend it  ?
-- Q5 : Is the time, the cost or the comlexity that break your innovation plan  ?
+- Q4 : Do you think you will extend your innovation solution  ?
+    - with a short budgets < 25k
+    - in opening a public market for a large budget
+    - in paying new licenses
+
+- Q5 : Is the time, the cost or the complexity that break your innovation plan  ?
 - Q6 : Do you need advanced or packaged solution as Conversationnal agent or Data mining  ?
 - Q7 : Do you have a suficient budget o tinvest in innovation as Block Chain AI or Cloud?
 - Q8 : Will you invest more in the future ?
