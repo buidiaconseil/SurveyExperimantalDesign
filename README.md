@@ -35,9 +35,9 @@ It is related on the previous list of subject.
 - Q2 : Do you have a plan to increase your actual Data Volume/Variety/Velocity ?
 - Q3 : Are you happy with your actual product ?
 - Q4 : Do you want to extend it  ?
-- Q5 : Is the time, the cost or the comlexity that break your result  ?
-- Q6 : Do you need advanced or packaged solution for Conversationnal agent or Data mining  ?
-- Q7 : Do you have budget ?
+- Q5 : Is the time, the cost or the comlexity that break your innovation plan  ?
+- Q6 : Do you need advanced or packaged solution as Conversationnal agent or Data mining  ?
+- Q7 : Do you have a suficient budget o tinvest in innovation as Block Chain AI or Cloud?
 - Q8 : Will you invest more in the future ?
 - Q8 : do you need more time or money to invest more  ?
 - Q9 : Are you using external consultant to help you to growth your solution  ?
@@ -47,16 +47,16 @@ It is related on the previous list of subject.
 
 | Questions | (BZ) | (BE) | (IB) | (IC) | (IAI) | (MK) | (MC) | (MM) | (DVa) | (DVo) | (DVe) | (HA) | (HC) | (HT) | (HP) |
 | --------- | ---- | ---- | ---- | ---- | ----- | ---- | ---- | ---- | ----- | ----- | ----- | ---- | ---- | ---- | ---- |
-|     Q1    | ---- | ---- | ---- | ---- | ----- | ---- | ---- | ---- | ----- | ----- | ----- | ---- | ---- | ---- | ---- |
-|     Q2    | ---- | ---- | ---- | ---- | ----- | ---- | ---- | ---- | ----- | ----- | ----- | ---- | ---- | ---- | ---- |
-|     Q3    | ---- | ---- | ---- | ---- | ----- | ---- | ---- | ---- | ----- | ----- | ----- | ---- | ---- | ---- | ---- |
-|     Q4    | ---- | ---- | ---- | ---- | ----- | ---- | ---- | ---- | ----- | ----- | ----- | ---- | ---- | ---- | ---- |
-|     Q5    | ---- | ---- | ---- | ---- | ----- | ---- | ---- | ---- | ----- | ----- | ----- | ---- | ---- | ---- | ---- |
-|     Q6    | ---- | ---- | ---- | ---- | ----- | ---- | ---- | ---- | ----- | ----- | ----- | ---- | ---- | ---- | ---- |
-|     Q7    | ---- | ---- | ---- | ---- | ----- | ---- | ---- | ---- | ----- | ----- | ----- | ---- | ---- | ---- | ---- |
-|     Q8    | ---- | ---- | ---- | ---- | ----- | ---- | ---- | ---- | ----- | ----- | ----- | ---- | ---- | ---- | ---- |
-|     Q9    | ---- | ---- | ---- | ---- | ----- | ---- | ---- | ---- | ----- | ----- | ----- | ---- | ---- | ---- | ---- |
-|     Q10   | ---- | ---- | ---- | ---- | ----- | ---- | ---- | ---- | ----- | ----- | ----- | ---- | ---- | ---- | ---- |
+|     Q1    | ---- | ---- | ---- | ---- | ----- | XXXX | ---- | ---- | ----- | ----- | ----- | ---- | ---- | ---- | ---- |
+|     Q2    | ---- | ---- | ---- | ---- | ----- | ---- | ---- | ---- | XXXXX | XXXXX | XXXXX | ---- | ---- | ---- | ---- |
+|     Q3    | ---- | ---- | ---- | ---- | ----- | ---- | ---- | ---- | ----- | ----- | ----- | XXXX | ---- | ---- | ---- |
+|     Q4    | ---- | XXXX | ---- | ---- | ----- | ---- | ---- | ---- | ----- | ----- | ----- | ---- | ---- | ---- | ---- |
+|     Q5    | ---- | ---- | ---- | ---- | ----- | ---- | ---- | ---- | ----- | ----- | ----- | ---- | XXXX | XXXX | XXXX |
+|     Q6    | XXXX | XXXX | ---- | ---- | ----- | ---- | XXXX | XXXX | ----- | ----- | ----- | ---- | ---- | ---- | ---- |
+|     Q7    | XXXX | ---- | ---- | ---- | ----- | ---- | ---- | ---- | ----- | ----- | ----- | ---- | ---- | ---- | ---- |
+|     Q8    | ---- | XXXX | ---- | ---- | ----- | ---- | ---- | ---- | ----- | ----- | ----- | ---- | ---- | ---- | ---- |
+|     Q9    | ---- | ---- | XXXX | XXXX | XXXXX | ---- | ---- | ---- | ----- | ----- | ----- | ---- | ---- | ---- | ---- |
+|     Q10   | ---- | ---- | ---- | XXXX | ----- | ---- | ---- | ---- | ----- | ----- | ----- | ---- | ---- | ---- | ---- |
 
 
 # License
