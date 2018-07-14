@@ -81,7 +81,12 @@ It is related on the previous list of subject.
     - in opening a public market for a large budget
     - in paying new licenses
 
-- Q5 : Is the time, the cost or the complexity that break your innovation plan  ?
+- Q5 : What are the principals reasons of a failure in innovative projecttime, the cost or the complexity that break your innovation plan  ?
+   - time
+   - complexity
+   - budget 
+   - supervising
+
 - Q6 : Do you need advanced or packaged solution as Conversationnal agent or Data mining  ?
 - Q7 : Do you have a suficient budget o tinvest in innovation as Block Chain AI or Cloud?
 - Q8 : Will you invest more in the future ?
