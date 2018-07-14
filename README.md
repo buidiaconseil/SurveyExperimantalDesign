@@ -157,13 +157,11 @@ It is related on the previous list of subject.
    - Free lance
    - Société de conseil
    - Grandes entreprises comme Microsoft, Oracle, ...
-- Q10: Quelle partie de votre solution allez-vous pousser sur le cloud?
-
-coeur
-comptabilité d'entreprise
-commercialisation
-gestion de la relation client
-données ou apprentissage automatique
+- Q10: Quelle partie de votre solution pensez-vous pousser sur le cloud?
+   - coeur de métier
+   - comptabilité d'entreprise
+   - commercialisation
+   - gestion de la relation client
 
 # License
 See LICENSE file
