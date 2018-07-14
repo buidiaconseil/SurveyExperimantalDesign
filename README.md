@@ -114,7 +114,7 @@ It is related on the previous list of subject.
    - data or machine learning
 
 # A French Version
-- Q1: Quelle est votre niveau de connaissance sur le Machine learning ou l'IAc?
+- Q1: Quelle est votre niveau de connaissance sur le Machine learning ou l'Intelligence Artificelle?
    - débutant
    - moyen
    - expert
@@ -148,18 +148,16 @@ It is related on the previous list of subject.
    - temps
    - budget
    - politique
-Q8: Quel genre de problèmes résolus pourrait briser votre capacité de non-investissement?
-
-plus de budget
-une preuve de concept valable
-compréhensible
-marché capable
-Q9: Quel type d'aide utilisez-vous pour développer votre solution?
-
-lance libre
-société de conseil
-grandes entreprises comme Microsoft, Oracle, ...
-Q10: Quelle partie de votre solution allez-vous pousser sur le cloud?
+- Q8: Quel genre de problèmes pourrait améliorer votre capacité d'investir dans l'innovation?
+   - plus de budget
+   - une preuve de concept viable
+   - meilleur compréhension
+   - mise sur le marché rapide
+- Q9: Quel type d'aide utilisez-vous pour développer vos solutions?
+   - Free lance
+   - Société de conseil
+   - Grandes entreprises comme Microsoft, Oracle, ...
+- Q10: Quelle partie de votre solution allez-vous pousser sur le cloud?
 
 coeur
 comptabilité d'entreprise
