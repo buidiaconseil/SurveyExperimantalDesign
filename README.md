@@ -64,7 +64,12 @@ It is related on the previous list of subject.
     - beginner
     - medium
     - expert
-- Q2 : Do you have a plan to increase your actual Data Volume/Variety/Velocity ?
+- Q2 : Is your futur plan will increase your actual Data on ?
+     - Volume
+     - Variety
+     - Velocity
+     - Value
+     - Veracity
 - Q3 : Are you happy with your actual product ?
 - Q4 : Do you want to extend it  ?
 - Q5 : Is the time, the cost or the comlexity that break your innovation plan  ?
