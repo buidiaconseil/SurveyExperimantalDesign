@@ -118,7 +118,6 @@ It is related on the previous list of subject.
    - débutant
    - moyen
    - expert
-
 - Q2: Est ce que vos futures améliorations vont augmenter ?
    - votre volume de données
    - leur variété
@@ -131,28 +130,24 @@ It is related on the previous list of subject.
    - à être étendu
    - inadéquats
 - Q4: Pensez-vous que vous allez étendre votre solution d'innovation?
-
-avec un budget court <25k
-en ouvrant un marché public pour un gros budget
-en payant de nouvelles licences
-Q5: Quelles sont les principales raisons d'échec d'un projet innovant?
-
-temps
-complexité
-budget
-surveillance
-Q6: Sur votre développement futur de solutions innovantes, avez-vous besoin?
-
-solution emballée
-basé sur le cloud
-personnalisation
-consultant
-Q7: Pour une solution innovante comme Block Chain, AI ou Cloud, quelle est la raison d'un plan non-adoptif?
-
-complexité
-temps
-budget
-politique
+   - Aved de faible budget <25k
+   - en ouvrant un marché public
+   - en payant de nouvelles licences
+- Q5: Quelles sont les principales raisons d'échec de vos projets innovants?
+   - temps
+   - complexité
+   - budget
+   - encadrement
+- Q6: Sur votre développement futur de solutions innovantes, avez-vous besoin?
+   - solution packagée
+   - basé sur le cloud
+   - personnalisable
+   - consulting
+- Q7: Pour une solution innovante comme Block Chain, AI ou Cloud, quelle est la raison des plans que vous n'adoptés pas?
+   - complexité
+   - temps
+   - budget
+   - politique
 Q8: Quel genre de problèmes résolus pourrait briser votre capacité de non-investissement?
 
 plus de budget
