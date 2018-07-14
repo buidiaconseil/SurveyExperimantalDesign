@@ -1,92 +1,49 @@
 # SurveyExperimantalDesign
 Experimental Design of Surveys. Searching an optimized way to minimize questions on a survey.
 
-# List of Subject
-
-Chatbot need: yes no
-Machine learning : y/n
-Advanced Machine Learning: yn
-Amount of data: Huge or Less
-Budget : >100 k
-Happy on ML solution : yn
-Extend Investment: yn
-Cloud need : yn
 
 # List of thema / alternatives
 Budget
-    Size : <100k
-    Extension : yn
+    Size (BZ) : <100k
+    Extension (BE) : yn
 Innovation 
-    Blockchain : yn
-    Cloud : yn 
-    AI :yn
+    Blockchain (IB) : yn
+    Cloud : (IC) yn 
+    AI (IAI) :yn
 Machine Learning
-    Knowledge : light, high
-    Conversationnal : no, started
-    Mining: no , started
+    Knowledge (MK) : light, high
+    Conversationnal (MC) : no, started
+    Mining (MM) : no , started
 Data variety/volume/velocity
-    Variety : yn
-    Volume : yn
-    Velocity : yn
+    Variety (DVa): yn
+    Volume (DVo): yn
+    Velocity (DVe) : yn
 Happyness
-    actual : yn
-    complexity : yn 
-    time :yn
-    price :yn
+    actual (HA) : yn
+    complexity (HC) : yn 
+    time (HT):yn
+    price (HP):yn
 
 # Data generation
-32768 row for 15 variables. I t s a lot
-We need to optimize for 10 questions with 4 responses.
+The number of possibilities is more than 32000 row for 15 variables. I t s a lot 
+Optimizing for 10 questions with 4 responses, is our limit.
 
-## Mix ML/Data   &&   Budget/Happyness/Innovation
+# Questions of the Survey
+It is related on the previous list of subject. 
 
-  Rep.. MachineLearning.Knowledge MachineLearning.Conversationnal MachineLearning.Mining Data.Variety   Data.Volume Data.Velocity
-3      1                        -1                               1                     -1           -1   -1            -1
-5      1                        -1                              -1                      1           -1   -1            -1
-15     1                        -1                               1                      1            1   -1            -1
-25     1                        -1                              -1                     -1            1   1            -1
-26     1                         1                              -1                     -1            1   1            -1
-28     1                         1                               1                     -1            1   1            -1
-41     1                        -1                              -1                     -1            1  -1             1
-49     1                        -1                              -1                     -1           -1  1             1
-59     1                        -1                               1                     -1            1  1             1
-64     1                         1                               1                      1            1  1             1
+Q1 : Do you have a knowledge on Machine learning IA / Block chain / Cloud ?
+Q2 : Do you have a plan to increase your actual Data Volume/Variety/Velocity ?
+Q3 : Are you happy with your actual product ?
+Q4 : Do you want to extend it  ?
+Q5 : Is the time, the cost or the comlexity that break your result  ?
+Q6 : Do you need advanced or packaged solution for Conversationnal agent or Data mining  ?
+Q7 : Do you have budget ?
+Q8 : Will you invest more in the future ?
+Q8 : do you need more time or money to invest more  ?
+Q9 : Are you using external consultant to help you to growth your solution  ?
+Q10: Do you think to deploy a great part of your solution in the cloud in the future ?
 
-| lINE | Rep.. | Budget.Size  | Budget.Extension|Innovation.Blockchain| Innovation.Cloud | Innovation.AI | Happyness.actual | Happyness.complexity |Happyness.time | Happyness.price |
-| ---- | ----- | ------------ | --------------- | ------------------- | ---------------- | ------------- | ---------------- | -------------------- | -------------- | --------------- |
-| 1    |   1   |       -1     |          -1     |               -1    |           -1    |        -1     |               -1 |                 -1   |          -1          |    -1           |
-| 22   |   1   |        1     |          -1     |                1    |           -1    |         1     |               -1 |                 -1   |          -1          |    -1           |
-52      1           1                1                    -1               -1             1     1                   -1             -1              -1
-54      1           1               -1                     1               -1             1     1                   -1             -1              -1
-73      1          -1               -1                    -1                1            -1     -1                    1             -1              -1
-128     1           1                1                     1                1             1     1                    1             -1              -1
-140     1           1                1                    -1                1            -1     -1                   -1              1              -1
-142     1           1               -1                     1                1            -1     -1                   -1              1              -1
-160     1           1                1                     1                1             1     -1                   -1              1              -1
-169     1          -1               -1                    -1                1            -1     1                   -1              1              -1
-173     1          -1               -1                     1                1            -1     1                   -1              1              -1
-187     1          -1                1                    -1                1             1     1                   -1              1              -1
-189     1          -1               -1                     1                1             1     1                   -1              1              -1
-209     1          -1               -1                    -1               -1             1     -1                    1              1              -1
-239     1          -1                1                     1                1            -1     1                    1              1              -1
-252     1           1                1                    -1                1             1     1                    1              1              -1
-279     1          -1                1                     1               -1             1     -1                   -1             -1               1
-281     1          -1               -1                    -1                1             1     -1                   -1             -1               1
-308     1           1                1                    -1               -1             1     1                   -1             -1               1
-351     1          -1                1                     1                1             1     -1                    1             -1               1
-391     1          -1                1                     1               -1            -1     -1                   -1              1               1
-411     1          -1                1                    -1                1             1     -1                   -1              1               1
-424     1           1                1                     1               -1            -1     1                   -1              1               1
-442     1           1               -1                    -1                1             1     1                   -1              1               1
-443     1          -1                1                    -1                1             1     1                   -1              1               1
-454     1           1               -1                     1               -1            -1     -1                    1              1               1
-478     1           1               -1                     1                1             1     -1                    1              1               1
-486     1           1               -1                     1               -1            -1     1                    1              1               1
-490     1           1               -1                    -1                1            -1     1                    1              1               1
-511     1          -1                1                     1                1             1     1                    1              1               1
-
-
-
+# Table of Questions /Subjects 
 
 
 # License
