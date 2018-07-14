@@ -70,7 +70,12 @@ It is related on the previous list of subject.
      - Velocity
      - Value
      - Veracity
-- Q3 : Are you happy with your actual product ?
+- Q3 : Do you think that your actual innovative product is ?
+    - successfull
+    - respond to the need
+    - need to be extended
+    - not fine
+    
 - Q4 : Do you want to extend it  ?
 - Q5 : Is the time, the cost or the comlexity that break your innovation plan  ?
 - Q6 : Do you need advanced or packaged solution as Conversationnal agent or Data mining  ?
