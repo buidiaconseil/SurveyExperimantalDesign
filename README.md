@@ -120,30 +120,30 @@ It is related on the previous list of subject.
    - expert
 - Q2: Est ce que vos futures améliorations vont augmenter ?
    - votre volume de données
-   - leur variété
-   - leur vitesse
-   - leur valeur
-   - leur véracité
-- Q3: Est ce que vous pensez vos produits innovateurs actuels sont?
+   - leurs variétés
+   - leurs vitesses
+   - leurs valeurs
+   - leurs véracités
+- Q3: Est ce que vous pensez que vos produits innovateurs actuels sont?
    - réussis
-   - adéquats au besoin
-   - à être étendu
+   - juste adéquats au besoin
    - inadéquats
 - Q4: Pensez-vous que vous allez étendre votre solution d'innovation?
-   - Aved de faible budget <25k
+   - Avec de faible budget <25k
    - en ouvrant un marché public
    - en payant de nouvelles licences
+   - en interne
 - Q5: Quelles sont les principales raisons d'échec de vos projets innovants?
    - temps
    - complexité
    - budget
    - encadrement
 - Q6: Sur votre développement futur de solutions innovantes, avez-vous besoin?
-   - solution packagée
-   - basé sur le cloud
+   - solutions packagées
+   - solutions dans le cloud
    - personnalisable
    - consulting
-- Q7: Pour une solution innovante comme Block Chain, AI ou Cloud, quelle est la raison des plans que vous n'adoptés pas?
+- Q7: Pour une solution innovante comme Block Chain, AI ou Cloud, quelle est la raison des projets que vous n'adoptés pas?
    - complexité
    - temps
    - budget
@@ -151,7 +151,7 @@ It is related on the previous list of subject.
 - Q8: Quel genre de problèmes pourrait améliorer votre capacité d'investir dans l'innovation?
    - plus de budget
    - une preuve de concept viable
-   - meilleur compréhension
+   - meilleure compréhension
    - mise sur le marché rapide
 - Q9: Quel type d'aide utilisez-vous pour développer vos solutions?
    - Free lance
@@ -162,6 +162,7 @@ It is related on the previous list of subject.
    - comptabilité d'entreprise
    - commercialisation
    - gestion de la relation client
+   - autres
 
 # License
 See LICENSE file
