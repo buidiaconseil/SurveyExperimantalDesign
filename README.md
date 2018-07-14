@@ -113,6 +113,66 @@ It is related on the previous list of subject.
    - customer relationship management
    - data or machine learning
 
+# A French Version
+Q1: Quelle est votre niveau de connaissance sur le Machine learning ou l'IAc?
+débutant
+moyen
+expert
+
+Q2: Votre plan futur va-t-il augmenter votre plan de données actuel?
+
+Le volume
+Variété
+Rapidité
+Valeur
+Véracité
+Q3: Pensez-vous que vos produits innovateurs réels sont?
+
+réussi
+répondre au besoin
+besoin d'être étendu
+pas bien
+Q4: Pensez-vous que vous allez étendre votre solution d'innovation?
+
+avec un budget court <25k
+en ouvrant un marché public pour un gros budget
+en payant de nouvelles licences
+Q5: Quelles sont les principales raisons d'échec d'un projet innovant?
+
+temps
+complexité
+budget
+surveillance
+Q6: Sur votre développement futur de solutions innovantes, avez-vous besoin?
+
+solution emballée
+basé sur le cloud
+personnalisation
+consultant
+Q7: Pour une solution innovante comme Block Chain, AI ou Cloud, quelle est la raison d'un plan non-adoptif?
+
+complexité
+temps
+budget
+politique
+Q8: Quel genre de problèmes résolus pourrait briser votre capacité de non-investissement?
+
+plus de budget
+une preuve de concept valable
+compréhensible
+marché capable
+Q9: Quel type d'aide utilisez-vous pour développer votre solution?
+
+lance libre
+société de conseil
+grandes entreprises comme Microsoft, Oracle, ...
+Q10: Quelle partie de votre solution allez-vous pousser sur le cloud?
+
+coeur
+comptabilité d'entreprise
+commercialisation
+gestion de la relation client
+données ou apprentissage automatique
 
 # License
 See LICENSE file
