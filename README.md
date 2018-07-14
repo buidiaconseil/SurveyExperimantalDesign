@@ -31,17 +31,17 @@ Optimizing for 10 questions with 4 responses, is our limit.
 # Questions of the Survey
 It is related on the previous list of subject. 
 
-Q1 : Do you have a knowledge on Machine learning IA / Block chain / Cloud ?
-Q2 : Do you have a plan to increase your actual Data Volume/Variety/Velocity ?
-Q3 : Are you happy with your actual product ?
-Q4 : Do you want to extend it  ?
-Q5 : Is the time, the cost or the comlexity that break your result  ?
-Q6 : Do you need advanced or packaged solution for Conversationnal agent or Data mining  ?
-Q7 : Do you have budget ?
-Q8 : Will you invest more in the future ?
-Q8 : do you need more time or money to invest more  ?
-Q9 : Are you using external consultant to help you to growth your solution  ?
-Q10: Do you think to deploy a great part of your solution in the cloud in the future ?
+- Q1 : Do you have a knowledge on Machine learning IA / Block chain / Cloud ?
+- Q2 : Do you have a plan to increase your actual Data Volume/Variety/Velocity ?
+- Q3 : Are you happy with your actual product ?
+- Q4 : Do you want to extend it  ?
+- Q5 : Is the time, the cost or the comlexity that break your result  ?
+- Q6 : Do you need advanced or packaged solution for Conversationnal agent or Data mining  ?
+- Q7 : Do you have budget ?
+- Q8 : Will you invest more in the future ?
+- Q8 : do you need more time or money to invest more  ?
+- Q9 : Are you using external consultant to help you to growth your solution  ?
+- Q10: Do you think to deploy a great part of your solution in the cloud in the future ?
 
 # Table of Questions /Subjects 
 
