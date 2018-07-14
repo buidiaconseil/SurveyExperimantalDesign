@@ -106,7 +106,12 @@ It is related on the previous list of subject.
    - free lance
    - consulting company
    - big companies as Microsoft, Oracle, ...
-- Q10: Do you think to deploy a great part of your solution in the cloud in the future ?
+- Q10: Which part of your solution do you will push on the cloud ?
+   - core
+   - business accounting
+   - marketing
+   - customer relationship management
+   - data or machine learning
 
 
 # License
