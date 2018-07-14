@@ -114,18 +114,17 @@ It is related on the previous list of subject.
    - data or machine learning
 
 # A French Version
-Q1: Quelle est votre niveau de connaissance sur le Machine learning ou l'IAc?
-débutant
-moyen
-expert
+- Q1: Quelle est votre niveau de connaissance sur le Machine learning ou l'IAc?
+   - débutant
+   - moyen
+   - expert
 
-Q2: Votre plan futur va-t-il augmenter votre plan de données actuel?
-
-Le volume
-Variété
-Rapidité
-Valeur
-Véracité
+- Q2: Est ce que vos futures améliorations vont augmenter ?
+   - votre volume de données
+   - leur variété
+   - leur vitesse
+   - leur valeur
+   - leur véracité
 Q3: Pensez-vous que vos produits innovateurs réels sont?
 
 réussi
