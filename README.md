@@ -70,7 +70,7 @@ It is related on the previous list of subject.
      - Velocity
      - Value
      - Veracity
-- Q3 : Do you think that your actual innovative product is ?
+- Q3 : Do you think that your actual innovative products are ?
     - successfull
     - respond to the need
     - need to be extended
@@ -81,14 +81,21 @@ It is related on the previous list of subject.
     - in opening a public market for a large budget
     - in paying new licenses
 
-- Q5 : What are the principals reasons of a failure in innovative projecttime, the cost or the complexity that break your innovation plan  ?
+- Q5 : What are the principals reasons of a failure in innovative project  ?
    - time
    - complexity
    - budget 
    - supervising
 
-- Q6 : Do you need advanced or packaged solution as Conversationnal agent or Data mining  ?
-- Q7 : Do you have a suficient budget o tinvest in innovation as Block Chain AI or Cloud?
+- Q6 : On your future development of innovative solutions, do you need :
+    - packaged solution
+    - cloud based
+    - customization 
+    - consulting
+- Q7 : For innovative solution as Block Chain, AI or Cloud, what is the reason of a non adoptive plan ?
+   - complexity
+   - time
+   - budget
 - Q8 : Will you invest more in the future ?
 - Q8 : do you need more time or money to invest more  ?
 - Q9 : Are you using external consultant to help you to growth your solution  ?
