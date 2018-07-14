@@ -87,7 +87,7 @@ It is related on the previous list of subject.
    - budget 
    - supervising
 
-- Q6 : On your future development of innovative solutions, do you need :
+- Q6 : On your future development of innovative solutions, do you need ?
     - packaged solution
     - cloud based
     - customization 
@@ -96,9 +96,16 @@ It is related on the previous list of subject.
    - complexity
    - time
    - budget
-- Q8 : Will you invest more in the future ?
-- Q8 : do you need more time or money to invest more  ?
-- Q9 : Are you using external consultant to help you to growth your solution  ?
+   - politics
+- Q8 : What kind of issues resolved could break your non investment capability ?
+   - more budget
+   - a valid proof of concept
+   - understandable
+   - market able
+- Q9 : Which Kind of help do you use to growth your solution  ?
+   - free lance
+   - consulting company
+   - big companies as Microsoft, Oracle, ...
 - Q10: Do you think to deploy a great part of your solution in the cloud in the future ?
 
 
