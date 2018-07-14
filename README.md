@@ -64,7 +64,7 @@ It is related on the previous list of subject.
     - beginner
     - medium
     - expert
-- Q2 : Is your futur plan will increase your actual Data on ?
+- Q2 : Is your futur plan will increase your actual Data plan on ?
      - Volume
      - Variety
      - Velocity
