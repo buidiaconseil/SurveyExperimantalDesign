@@ -125,13 +125,12 @@ It is related on the previous list of subject.
    - leur vitesse
    - leur valeur
    - leur véracité
-Q3: Pensez-vous que vos produits innovateurs réels sont?
-
-réussi
-répondre au besoin
-besoin d'être étendu
-pas bien
-Q4: Pensez-vous que vous allez étendre votre solution d'innovation?
+- Q3: Est ce que vous pensez vos produits innovateurs actuels sont?
+   - réussis
+   - adéquats au besoin
+   - à être étendu
+   - inadéquats
+- Q4: Pensez-vous que vous allez étendre votre solution d'innovation?
 
 avec un budget court <25k
 en ouvrant un marché public pour un gros budget
