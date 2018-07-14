@@ -3,26 +3,26 @@ Experimental Design of Surveys. Searching an optimized way to minimize questions
 
 
 # List of thema / alternatives
-Budget
-    Size (BZ) : <100k
-    Extension (BE) : yn
-Innovation 
-    Blockchain (IB) : yn
-    Cloud : (IC) yn 
-    AI (IAI) :yn
-Machine Learning
-    Knowledge (MK) : light, high
-    Conversationnal (MC) : no, started
-    Mining (MM) : no , started
-Data variety/volume/velocity
-    Variety (DVa): yn
-    Volume (DVo): yn
-    Velocity (DVe) : yn
-Happyness
-    actual (HA) : yn
-    complexity (HC) : yn 
-    time (HT):yn
-    price (HP):yn
+- Budget
+   - Size (BZ) : <100k
+   - Extension (BE) : yn
+- Innovation 
+   - Blockchain (IB) : yn
+   - Cloud : (IC) yn 
+   - AI (IAI) :yn
+- Machine Learning
+   - Knowledge (MK) : light, high
+   - Conversationnal (MC) : no, started
+   - Mining (MM) : no , started
+- Data variety/volume/velocity
+   - Variety (DVa): yn
+   - Volume (DVo): yn
+   - Velocity (DVe) : yn
+- Happyness
+   - actual (HA) : yn
+   - complexity (HC) : yn 
+   - time (HT):yn
+   - price (HP):yn
 
 # Data generation
 The number of possibilities is more than 32000 row for 15 variables. I t s a lot 
