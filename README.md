@@ -58,6 +58,23 @@ It is related on the previous list of subject.
 |     Q9    | ---- | ---- | XXXX | XXXX | XXXXX | ---- | ---- | ---- | ----- | ----- | ----- | ---- | ---- | ---- | ---- |
 |     Q10   | ---- | ---- | ---- | XXXX | ----- | ---- | ---- | ---- | ----- | ----- | ----- | ---- | ---- | ---- | ---- |
 
+# With Quantifiable Choice
+
+- Q1 : What is your knowledge on Machine learning IA / Block chain / Cloud ?
+    - beginner
+    - medium
+    - expert
+- Q2 : Do you have a plan to increase your actual Data Volume/Variety/Velocity ?
+- Q3 : Are you happy with your actual product ?
+- Q4 : Do you want to extend it  ?
+- Q5 : Is the time, the cost or the comlexity that break your innovation plan  ?
+- Q6 : Do you need advanced or packaged solution as Conversationnal agent or Data mining  ?
+- Q7 : Do you have a suficient budget o tinvest in innovation as Block Chain AI or Cloud?
+- Q8 : Will you invest more in the future ?
+- Q8 : do you need more time or money to invest more  ?
+- Q9 : Are you using external consultant to help you to growth your solution  ?
+- Q10: Do you think to deploy a great part of your solution in the cloud in the future ?
+
 
 # License
 See LICENSE file
